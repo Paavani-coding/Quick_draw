@@ -1,0 +1,42 @@
+p, span{
+    font-size: 25px !important;
+    font-weight: bold !important;
+}
+
+span{
+    text-align: left !important;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#sketch_to_be_drawn{
+    color: brown ;
+}
+
+body{
+    font-family: 'Crete Round';
+}
+
+#show_sketch{
+    float: right;
+    margin-right: 15px;
+    margin-top: -55px;
+}
+#heading{
+    font-weight: bold;
+    text-decoration: underline;
+    font-variant: small-caps ;
+    font-size: 45px !important;
+}
+
+canvas{
+    border-radius: 25px;
+    border: 5px deeppink solid;
+    margin-top: 210px;
+    margin-bottom: 50px !important;
+}
+
+#clear{
+    background-color: rgb(4, 49, 88);
+    color: aliceblue;
+}
